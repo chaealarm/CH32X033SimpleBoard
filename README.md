@@ -6,7 +6,7 @@ CH32X033 Development Board. USB TYPE-C, 5V and Boot SW
 ![image](https://github.com/user-attachments/assets/6b346b44-00cd-4b42-bbb0-72e15ddf20d5)
 
 Designed in EasyEDA. 
-You can import json files to EasyEDA can open schematic and PCB.
+You can import .epro files to EasyEDA Pro can open schematic and PCB.
 
 To Order PCB, use Gerber file.
 To Order PCB and PCBA, use Gerber, PickAndPlace, BOM files.
